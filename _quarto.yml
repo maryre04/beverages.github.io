@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "data_visualization.github.io"
+  title: "Data Visualization Final Project"
   navbar:
     left:
       - href: index.qmd
