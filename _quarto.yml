@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Data Visualization Final Project"
+  title: "Data Visualization Final"
   navbar:
     left:
       - href: index.qmd
